@@ -1,0 +1,86 @@
+
+   .navbar-expand-sm
+   {
+       background-color: #003399;
+
+         color: #ffffff;
+}
+
+#labelid{
+  text-align: left;
+
+}
+
+.btn-secondary
+{
+
+  color: #fff;
+  background-color: #001133;
+  border-color: #357ebd;
+
+}
+.dropdown-menu a:hover
+{
+  background-color: #f507c1;
+}
+
+.dropdown:hover .dropdown-menu, .btn-group:hover .dropdown-menu
+{
+		display: block;
+	}
+
+.dropdown:hover .dropdown
+{
+  background-color: red;
+}
+
+
+
+}
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+}
+#con-bg{
+
+  background-image: url("../imges/tra.jpg");
+}
+
+
+.nav-link{
+  color:#ffffff;
+}
+.nav-link:hover{
+  background-color:#f507c1;
+  color:#ffffff;
+}
+.dropdown-item:hover
+{
+    color:#ffffff;
+}
+.foo-container {
+
+height: auto;
+width: auto;
+}
+#enro{
+
+  background-image: url("../imges/tra.jpg");
+}
+.list-group-item{
+
+  width: 150px;
+  float: right;
+}
+.bs-example{
+  direction:rtl;
+
+}
+.df{
+  text-decoration: none;
+  color: #f5076a;
+}
+.df:hover{
+  text-decoration-line: underline;
+
+
+}
