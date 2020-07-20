@@ -7,7 +7,7 @@
 
 
       <div class="col-md-8" style="color:white; text-align:center;">
-                <h1> TAFE BRISBANE</h1>
+                <h1>  BRISBANE</h1>
         </div>
 
 
